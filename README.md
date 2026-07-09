@@ -1,4 +1,4 @@
-# CodexProfit ICML Artifact Bundle
+# CodexProphet ICML Artifact Bundle
 
 Public artifact bundle for the ICML presentation.
 
