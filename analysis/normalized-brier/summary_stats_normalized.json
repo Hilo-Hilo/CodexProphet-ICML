@@ -1,0 +1,21 @@
+{
+  "overall": {
+    "n_events": 204,
+    "mean_norm_brier": 0.04634467395644144,
+    "mean_norm_market_brier": 0.08733944429646356,
+    "mean_norm_brier_improvement": 0.04099477034002214,
+    "median_norm_brier_improvement": 0.0011867333333333335,
+    "bootstrap_ci95_norm_brier_improvement": [
+      0.021166332271406182,
+      0.06358291795292556
+    ],
+    "paired_signflip_p_value": 3.999920001599968e-05,
+    "beat_market_count": 130,
+    "beat_market_rate": 0.6372549019607843,
+    "beat_market_binom_p_vs_50": 0.00010745330593347495,
+    "top_pick_correct_rate": 0.8275862068965517,
+    "outcome_weighted_mean_norm_brier": 0.02929827502368172,
+    "outcome_weighted_mean_norm_market_brier": 0.05411409251657721,
+    "outcome_weighted_mean_improvement": 0.024815817492895485
+  }
+}

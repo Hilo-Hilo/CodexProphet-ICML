@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#fbfaf7"/>
+<line x1="0" y1="0" x2="0" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="40" y1="0" x2="40" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="80" y1="0" x2="80" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="120" y1="0" x2="120" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="160" y1="0" x2="160" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="200" y1="0" x2="200" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="240" y1="0" x2="240" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="280" y1="0" x2="280" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="320" y1="0" x2="320" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="360" y1="0" x2="360" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="400" y1="0" x2="400" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="440" y1="0" x2="440" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="480" y1="0" x2="480" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="520" y1="0" x2="520" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="560" y1="0" x2="560" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="600" y1="0" x2="600" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="640" y1="0" x2="640" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="680" y1="0" x2="680" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="720" y1="0" x2="720" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="760" y1="0" x2="760" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="800" y1="0" x2="800" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="840" y1="0" x2="840" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="880" y1="0" x2="880" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="920" y1="0" x2="920" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="960" y1="0" x2="960" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1000" y1="0" x2="1000" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1040" y1="0" x2="1040" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1080" y1="0" x2="1080" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1120" y1="0" x2="1120" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1160" y1="0" x2="1160" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1200" y1="0" x2="1200" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1240" y1="0" x2="1240" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1280" y1="0" x2="1280" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1320" y1="0" x2="1320" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1360" y1="0" x2="1360" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1400" y1="0" x2="1400" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1440" y1="0" x2="1440" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1480" y1="0" x2="1480" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1520" y1="0" x2="1520" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="1560" y1="0" x2="1560" y2="900" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="0" x2="1600" y2="0" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="40" x2="1600" y2="40" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="80" x2="1600" y2="80" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="120" x2="1600" y2="120" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="160" x2="1600" y2="160" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="200" x2="1600" y2="200" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="240" x2="1600" y2="240" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="280" x2="1600" y2="280" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="320" x2="1600" y2="320" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="360" x2="1600" y2="360" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="400" x2="1600" y2="400" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="440" x2="1600" y2="440" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="480" x2="1600" y2="480" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="520" x2="1600" y2="520" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="560" x2="1600" y2="560" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="600" x2="1600" y2="600" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="640" x2="1600" y2="640" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="680" x2="1600" y2="680" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="720" x2="1600" y2="720" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="760" x2="1600" y2="760" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="800" x2="1600" y2="800" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="840" x2="1600" y2="840" stroke="#000" stroke-opacity="0.035"/>
+<line x1="0" y1="880" x2="1600" y2="880" stroke="#000" stroke-opacity="0.035"/>
+<text x="70" y="60" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="34" fill="#171717" font-weight="800" text-anchor="start">CodexProphet calibration asset</text>
+<text x="70" y="90" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#5d5a55" font-weight="400" text-anchor="start">Market-signal replication: where raw market probabilities were under/over-confident, and which corrections survived larger-history checks.</text>
+<rect x="55" y="125" width="960" height="410" rx="22" fill="white" stroke="#ddd6ca"/>
+<text x="85" y="165" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" fill="#171717" font-weight="800" text-anchor="start">1.2k history backtest: confidence correction is category-gated, not global</text>
+<line x1="105" y1="465" x2="955" y2="465" stroke="#222"/>
+<line x1="105" y1="205" x2="105" y2="465" stroke="#222"/>
+<line x1="105" y1="465.0" x2="955" y2="465.0" stroke="#000" stroke-opacity="0.12"/>
+<text x="95" y="470.0" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="end">0.00</text>
+<line x1="105" y1="392.77777777777777" x2="955" y2="392.77777777777777" stroke="#000" stroke-opacity="0.12"/>
+<text x="95" y="397.77777777777777" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="end">0.05</text>
+<line x1="105" y1="320.55555555555554" x2="955" y2="320.55555555555554" stroke="#000" stroke-opacity="0.12"/>
+<text x="95" y="325.55555555555554" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="end">0.10</text>
+<line x1="105" y1="248.33333333333331" x2="955" y2="248.33333333333331" stroke="#000" stroke-opacity="0.12"/>
+<text x="95" y="253.33333333333331" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="end">0.15</text>
+<rect x="145.83333333333331" y="388.99333333333334" width="28" height="76.00666666666666" fill="#9aa7b2" stroke="#4a5661"/>
+<rect x="177.83333333333331" y="415.3573333333333" width="28" height="49.64266666666667" fill="#0b6f59" stroke="#06483a"/>
+<text x="191.83333333333331" y="393.3573333333333" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#0b6f59" font-weight="800" text-anchor="middle">+0.0183</text>
+<text x="191.83333333333331" y="408.3573333333333" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#0b6f59" font-weight="700" text-anchor="middle">75%</text>
+<text x="175.83333333333331" y="493" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="middle">Other</text>
+<text x="175.83333333333331" y="511" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#5d5a55" font-weight="400" text-anchor="middle">27 events</text>
+<rect x="287.5" y="369.40088888888886" width="28" height="95.59911111111113" fill="#9aa7b2" stroke="#4a5661"/>
+<rect x="319.5" y="377.10555555555555" width="28" height="87.89444444444445" fill="#0b6f59" stroke="#06483a"/>
+<text x="333.5" y="355.10555555555555" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#0b6f59" font-weight="800" text-anchor="middle">+0.0053</text>
+<text x="333.5" y="370.10555555555555" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#0b6f59" font-weight="700" text-anchor="middle">30%</text>
+<text x="317.5" y="493" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="middle">Entertainment</text>
+<text x="317.5" y="511" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#5d5a55" font-weight="400" text-anchor="middle">65 events</text>
+<rect x="429.16666666666663" y="227.53766666666667" width="28" height="237.46233333333333" fill="#9aa7b2" stroke="#4a5661"/>
+<rect x="461.16666666666663" y="230.23444444444442" width="28" height="234.76555555555558" fill="#0b6f59" stroke="#06483a"/>
+<text x="475.16666666666663" y="208.23444444444442" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#0b6f59" font-weight="800" text-anchor="middle">+0.0019</text>
+<text x="475.16666666666663" y="223.23444444444442" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#0b6f59" font-weight="700" text-anchor="middle">10%</text>
+<text x="459.16666666666663" y="493" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="middle">Mentions</text>
+<text x="459.16666666666663" y="511" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#5d5a55" font-weight="400" text-anchor="middle">13 events</text>
+<rect x="570.8333333333334" y="296.1935555555556" width="28" height="168.80644444444445" fill="#9aa7b2" stroke="#4a5661"/>
+<text x="600.8333333333334" y="276.1935555555556" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#b13b2e" font-weight="700" text-anchor="middle">no broad</text>
+<text x="600.8333333333334" y="290.1935555555556" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#b13b2e" font-weight="700" text-anchor="middle">edge</text>
+<text x="600.8333333333334" y="493" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="middle">Sports</text>
+<text x="600.8333333333334" y="511" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#5d5a55" font-weight="400" text-anchor="middle">468 events</text>
+<rect x="712.5" y="257.64422222222225" width="28" height="207.35577777777775" fill="#9aa7b2" stroke="#4a5661"/>
+<text x="742.5" y="237.64422222222225" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#b13b2e" font-weight="700" text-anchor="middle">no broad</text>
+<text x="742.5" y="251.64422222222225" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#b13b2e" font-weight="700" text-anchor="middle">edge</text>
+<text x="742.5" y="493" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="middle">Companies</text>
+<text x="742.5" y="511" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#5d5a55" font-weight="400" text-anchor="middle">18 events</text>
+<rect x="854.1666666666666" y="367.55344444444444" width="28" height="97.44655555555555" fill="#9aa7b2" stroke="#4a5661"/>
+<text x="884.1666666666666" y="347.55344444444444" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#b13b2e" font-weight="700" text-anchor="middle">no broad</text>
+<text x="884.1666666666666" y="361.55344444444444" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#b13b2e" font-weight="700" text-anchor="middle">edge</text>
+<text x="884.1666666666666" y="493" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="middle">Economics</text>
+<text x="884.1666666666666" y="511" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="11" fill="#5d5a55" font-weight="400" text-anchor="middle">14 events</text>
+<rect x="760" y="180" width="16" height="16" fill="#9aa7b2"/><text x="783" y="193" font-size="13" font-family="Inter, sans-serif" fill="#5d5a55">base market Brier</text>
+<rect x="760" y="202" width="16" height="16" fill="#0b6f59"/><text x="783" y="215" font-size="13" font-family="Inter, sans-serif" fill="#5d5a55">best gated adjustment</text>
+<rect x="1045" y="125" width="500" height="410" rx="22" fill="white" stroke="#ddd6ca"/>
+<text x="1075" y="165" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="23" fill="#171717" font-weight="800" text-anchor="start">Event-clustered read</text>
+<text x="1075" y="190" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="15" fill="#5d5a55" font-weight="400" text-anchor="start">Avoid row-count illusions; use event-level robustness.</text>
+<line x1="1160" y1="210" x2="1160" y2="460" stroke="#333"/>
+<text x="1090" y="236" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="start">Other 75%</text>
+<line x1="1174.49" y1="254" x2="1295.99" y2="254" stroke="#222" stroke-width="2"/>
+<rect x="1160" y="244" width="68.67" height="20" fill="#0b6f59"/>
+<text x="1303.99" y="260" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="start">+0.0008</text>
+<text x="1090" y="291" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="start">Ent+Other+Mentions 30%</text>
+<line x1="1170.89" y1="309" x2="1310.3899999999999" y2="309" stroke="#222" stroke-width="2"/>
+<rect x="1160" y="299" width="82.26" height="20" fill="#0b6f59"/>
+<text x="1318.3899999999999" y="315" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="start">+0.0009</text>
+<text x="1090" y="346" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="start">Ent+Other 40%</text>
+<line x1="1148.3" y1="364" x2="1328.57" y2="364" stroke="#222" stroke-width="2"/>
+<rect x="1160" y="354" width="81.63000000000001" height="20" fill="#d5a23d"/>
+<text x="1336.57" y="370" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="start">+0.0009</text>
+<text x="1090" y="401" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="13" fill="#171717" font-weight="700" text-anchor="start">Entertainment 40%</text>
+<line x1="1105.55" y1="419" x2="1261.34" y2="419" stroke="#222" stroke-width="2"/>
+<rect x="1160" y="409" width="25.380000000000003" height="20" fill="#d5a23d"/>
+<text x="1269.34" y="425" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="start">+0.0003</text>
+<rect x="55" y="585" width="345" height="210" rx="22" fill="white" stroke="#0b6f59" stroke-width="2"/>
+<text x="79" y="630" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" fill="#0b6f59" font-weight="800" text-anchor="start">Underconfident favorites</text>
+<text x="79" y="669.0" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">Concrete Other + Entertainment</text>
+<text x="79" y="690.76" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">markets 3–5 days before close often</text>
+<text x="79" y="712.52" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">rewarded sharpening toward 0/1.</text>
+<rect x="435" y="585" width="345" height="210" rx="22" fill="white" stroke="#b13b2e" stroke-width="2"/>
+<text x="459" y="630" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" fill="#b13b2e" font-weight="800" text-anchor="start">Overconfidence / noise</text>
+<text x="459" y="669.0" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">Mention/topic markets were thin and</text>
+<text x="459" y="690.76" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">noisy; avoid aggressive YES</text>
+<text x="459" y="712.52" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">probabilities unless exact market +</text>
+<text x="459" y="734.28" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">sources agree.</text>
+<rect x="815" y="585" width="345" height="210" rx="22" fill="white" stroke="#d5a23d" stroke-width="2"/>
+<text x="839" y="630" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" fill="#d5a23d" font-weight="800" text-anchor="start">Global rule rejected</text>
+<text x="839" y="669.0" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">All-category tail amplification</text>
+<text x="839" y="690.76" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">looked row-positive but failed</text>
+<text x="839" y="712.52" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">event-clustered robustness; keep</text>
+<text x="839" y="734.28" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">diagnostic only.</text>
+<rect x="1195" y="585" width="345" height="210" rx="22" fill="white" stroke="#154d8b" stroke-width="2"/>
+<text x="1219" y="630" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" fill="#154d8b" font-weight="800" text-anchor="start">Operational rule</text>
+<text x="1219" y="669.0" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">Anchor on exact market midpoint,</text>
+<text x="1219" y="690.76" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">then apply named structural</text>
+<text x="1219" y="712.52" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">corrections only when the event</text>
+<text x="1219" y="734.28" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="17" fill="#171717" font-weight="400" text-anchor="start">matches.</text>
+<text x="70" y="860" font-family="Inter, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" fill="#5d5a55" font-weight="400" text-anchor="start">Source: CodexProphet docs/market_signal_replication.md + docs/market_signal_learnings.md; James Gui prophet-hacks repo cloned and checked; no original PNG/HTML graph asset found in repo.</text>
+</svg>
