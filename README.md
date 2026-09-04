@@ -2,6 +2,10 @@
 
 Public artifact bundle for the ICML presentation.
 
+## Presentation
+
+[Preview the 27-slide ICML 2026 Forecasting Workshop oral presentation](docs/CodexProphet-ICML-2026-Oral.pdf).
+
 This repository contains generated evaluation results, data tables, diagrams, and Nano Banana / Paper Banana presentation charts.
 
 ## Contents
